@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		B976AC202A9942180081CF3F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B976AC1F2A9942180081CF3F /* main.swift */; };
 		B976AC272A99434F0081CF3F /* Singleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B976AC262A99434F0081CF3F /* Singleton.swift */; };
+		B976AC2B2A99EF8C0081CF3F /* CustomerProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B976AC2A2A99EF8C0081CF3F /* CustomerProfile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		B976AC1C2A9942180081CF3F /* Singleton Design Pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Singleton Design Pattern"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B976AC1F2A9942180081CF3F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B976AC262A99434F0081CF3F /* Singleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Singleton.swift; sourceTree = "<group>"; };
+		B976AC2A2A99EF8C0081CF3F /* CustomerProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerProfile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				B976AC1F2A9942180081CF3F /* main.swift */,
 				B976AC262A99434F0081CF3F /* Singleton.swift */,
+				B976AC2A2A99EF8C0081CF3F /* CustomerProfile.swift */,
 			);
 			path = "Singleton Design Pattern";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B976AC2B2A99EF8C0081CF3F /* CustomerProfile.swift in Sources */,
 				B976AC202A9942180081CF3F /* main.swift in Sources */,
 				B976AC272A99434F0081CF3F /* Singleton.swift in Sources */,
 			);

@@ -1,15 +1,6 @@
-//
-//  Singleton.swift
-//  Singleton Design Pattern
-//
-//  Created by Vukasin Dobromirovic on 25.8.23..
-//
-
-import Foundation
-
-class Singleton {
+final class Singleton {
     
-    private static var instance : Singleton?
+    static var instance : Singleton?
     
     // private constructor
     private init(){}
