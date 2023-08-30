@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B90799022A9F2E62008EB2B2 /* AbstractFactoryRW.swift in Sources */ = {isa = PBXBuildFile; fileRef = B90799012A9F2E62008EB2B2 /* AbstractFactoryRW.swift */; };
 		B920677D2A9EA3FA0029A647 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B920677C2A9EA3FA0029A647 /* main.swift */; };
 		B92067842A9EA4100029A647 /* AbstractFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92067832A9EA4100029A647 /* AbstractFactory.swift */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B90799012A9F2E62008EB2B2 /* AbstractFactoryRW.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractFactoryRW.swift; sourceTree = "<group>"; };
 		B92067792A9EA3FA0029A647 /* Abstract Factory Design Pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Abstract Factory Design Pattern"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B920677C2A9EA3FA0029A647 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B92067832A9EA4100029A647 /* AbstractFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractFactory.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				B920677C2A9EA3FA0029A647 /* main.swift */,
 				B92067832A9EA4100029A647 /* AbstractFactory.swift */,
+				B90799012A9F2E62008EB2B2 /* AbstractFactoryRW.swift */,
 			);
 			path = "Abstract Factory Design Pattern";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B92067842A9EA4100029A647 /* AbstractFactory.swift in Sources */,
+				B90799022A9F2E62008EB2B2 /* AbstractFactoryRW.swift in Sources */,
 				B920677D2A9EA3FA0029A647 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
